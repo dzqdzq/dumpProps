@@ -1,22 +1,23 @@
 {
   "name": "dump-props",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "show all properties of target",
   "author": "dzqdzq",
   "main": "index.js",
   "type":"module",
   "keywords": [
     "js",
-    "prototype",
-    "properties",
     "dump",
     "dump-props",
     "dumpProps",
-    "query object"
+    "prototype",
+    "properties",
+    "query object",
+    "dzqdzq"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dzqdzq/unwxapkg.git"
+    "url": "https://github.com/dzqdzq/dumpProps.git"
   },
   "bin": {
     "dumpProps": "bin/cmd.js",
