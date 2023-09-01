@@ -1,0 +1,29 @@
+{
+  "name": "dump-props",
+  "version": "0.0.3",
+  "description": "show all properties of target",
+  "author": "dzqdzq",
+  "main": "index.js",
+  "type":"module",
+  "keywords": [
+    "js",
+    "prototype",
+    "properties",
+    "dump",
+    "dump-props",
+    "dumpProps",
+    "query object"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzqdzq/unwxapkg.git"
+  },
+  "bin": {
+    "dumpProps": "bin/cmd.js",
+    "dump-props": "bin/cmd.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "clipboardy": "^3.0.0"
+  }
+}
