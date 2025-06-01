@@ -1,6 +1,6 @@
 {
   "name": "dump-props",
-  "version": "0.0.5",
+  "version": "1.0.0",
   "description": "show all properties of target",
   "author": "dzqdzq",
   "main": "index.js",
@@ -13,6 +13,7 @@
     "prototype",
     "properties",
     "query object",
+    "circle stringify",
     "dzqdzq"
   ],
   "repository": {

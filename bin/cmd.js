@@ -1,5 +1,5 @@
 #!/usr/bin/env node
 
 import clipboardy from 'clipboardy';
-import dumpProps from '../index.js';
-clipboardy.writeSync(dumpProps.toString());
+import {dumpProps, stringify} from '../index.js';
+clipboardy.writeSync(stringify.toString() + "\n" + dumpProps.toString());
